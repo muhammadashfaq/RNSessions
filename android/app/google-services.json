@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "347269432027",
+    "firebase_url": "https://sessionsociallogins.firebaseio.com",
+    "project_id": "sessionsociallogins",
+    "storage_bucket": "sessionsociallogins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347269432027:android:3a1cac7473b8b6d83982fe",
+        "android_client_info": {
+          "package_name": "com.hooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347269432027-t5pb6d8q21ka83qvo7a5lsj8g7tbc4gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARzRrLUEdQb9WAqWO3nZvmTJZJvnVpOVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347269432027-t5pb6d8q21ka83qvo7a5lsj8g7tbc4gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
